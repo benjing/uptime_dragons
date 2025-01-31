@@ -4,7 +4,7 @@
     "url": "https://www.hk-dragons.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hk-dragons.com.ico",
     "slug": "hong-kong-dragons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1051,
     "timeMonth": 1051,
     "timeYear": 1051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   }
 ]
