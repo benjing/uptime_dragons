@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hk-dragons.com.ico",
     "slug": "hong-kong-dragons",
     "status": "down",
-    "uptime": "61.78%",
+    "uptime": "61.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "21.89%",
-    "uptimeMonth": "20.21%",
+    "uptimeMonth": "23.49%",
     "uptimeYear": "63.58%",
     "time": 1153,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 1081,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-04-30": 173,
+      "2026-05-01": 202,
+      "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -211,8 +212,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
-      "2025-05-02": 1440,
-      "2025-05-01": 1440
+      "2025-05-02": 1440
     }
   }
 ]
