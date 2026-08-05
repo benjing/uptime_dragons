@@ -6,14 +6,14 @@
     "slug": "hong-kong-dragons",
     "status": "down",
     "uptime": "61.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "76.88%",
-    "uptimeMonth": "80.89%",
-    "uptimeYear": "65.62%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "76.09%",
+    "uptimeMonth": "80.75%",
+    "uptimeYear": "65.60%",
     "time": 1162,
     "timeDay": 1241,
     "timeWeek": 1116,
-    "timeMonth": 1069,
+    "timeMonth": 1077,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-08-15": 697,
@@ -215,7 +215,7 @@
       "2026-08-01": 1440,
       "2026-07-31": 188,
       "2026-08-03": 287,
-      "2026-08-05": 0
+      "2026-08-05": 79
     }
   }
 ]
